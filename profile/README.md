@@ -2,7 +2,7 @@
 
 ## Alipay is one of the products offered by the [Ant Group](https://www.antgroup.com/en). 
 
-**Please refer to the [Ant Group's Github homepage](https://github.com/antgroup) for further details about our open source program.**
+**Please refer to the [Ant Group's GitHub Homepage](https://github.com/antgroup) for further details about our open source program.**
 
 ## Our mission
 
